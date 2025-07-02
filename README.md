@@ -6,7 +6,7 @@
 <h3> I am a dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
 </h3>
 
-<h3>I'm currently learning HTML, CSS, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.</h3>
+<h3>I'm currently learning HTML, CSS, Java Language. I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.</h3>
 
 <br>
 <br>
@@ -61,12 +61,10 @@
 <br>
 
 ### <h1>About Me:</h1>
-* I'm currently learning **JavaScript and Python**, with a focus on building scalable and efficient applications.
+* I'm currently learning **Java Language and Python**, with a focus on building scalable and efficient applications.
 * I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
 * My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
-* I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** or **practicing programming languages** on mobile.
-* All of my projects are available at my [Repository Tab](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
-* How to reach me: [nishangithub@gmail.com](mailto:nishangithub@gmail.com). I'm always open to collaborations and discussions about tech!
+* How to reach me: [himanshu2788github@gmail.com](mailto:himanshu2788github@gmail.com). I'm always open to collaborations and discussions about tech!
 
 <br>
 <br>
@@ -74,7 +72,7 @@
 ### <h2>Get in Touch</h2>
 I’m always excited to connect with fellow developers, share insights, and learn from the experiences of others. Whether you have questions, want to discuss a project, or just want to chat about tech, feel free to reach out!
 <br>
-You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
+You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gmail.com).  I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
 <br>
 <br>
   [![Gmail](https://img.shields.io/badge/EMAIL-EA4335?logo=gmail&logoColor=black)](mailto:nishangithub@gmail.com)
