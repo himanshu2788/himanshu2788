@@ -62,24 +62,28 @@
 <br>
 
 ### <h1>About Me:</h1>
-* I'm currently learning **Java Language and Python**, with a focus on building scalable and efficient applications.
-* I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
-* My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
-* How to reach me: [himanshu2788github@gmail.com](mailto:himanshu2788github@gmail.com). I'm always open to collaborations and discussions about tech!
+* I’m actively learning Java and Python, focused on creating efficient, scalable digital solutions.
+* My journey began with C, which grounded me in the fundamentals of programming.
+* I bring creativity to front-end development using HTML and CSS to craft visually engaging, responsive websites.
+* Want to connect or collaborate? Drop me a line at: [himanshu2788github@gmail.com](mailto:himanshu2788github@gmail.com). 
+  
+
+
+
+
 
 <br>
 <br>
 
 ### <h2>Get in Touch</h2>
-I’m always excited to connect with fellow developers, share insights, and learn from the experiences of others. Whether you have questions, want to discuss a project, or just want to chat about tech, feel free to reach out!
+Whether it’s diving into a project, exploring new tech, or just swapping experiences, I’m always up for a good conversation. If you’re passionate about development like I am—let’s connect
 <br>
-You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gmail.com).  I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
+You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gmail.com). I’m eager to engage with the developer community, share ideas, and grow by learning from others' experiences.
 <br>
 <br>
-  [![Gmail](https://img.shields.io/badge/EMAIL-EA4335?logo=gmail&logoColor=black)](mailto:nishangithub@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/)
-  [![Github](https://img.shields.io/badge/GITHUB-000000?logo=github)](https://github.com/nishuR31)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)]( https://leetcode.com/u/nishanr_19/)
+  [![Gmail](https://img.shields.io/badge/EMAIL-EA4335?logo=gmail&logoColor=black)](mailto:hs598475@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-230077B5?logoColor=white&color=black)](https://www.linkedin.com/in/himanshu-singh-89000b247/)
+  [![Github](https://img.shields.io/badge/GITHUB-000000?logo=github)](https://github.com/himanshu2788)
  
 
 
@@ -87,7 +91,7 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 <br>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=1500&lines=I+am+continously+learning;And+tuning+my+skill+too." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=1500&lines=I'm+always+enhancing+my+skill+set+and+exploring+new+ways+to+build+better+,+smarter+solutions." alt="Typing SVG">
 </div>
 
 <br>
