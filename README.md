@@ -1,12 +1,12 @@
 # <h1 align="center">Hi, I'm Himanshu or Hima 👋</h1>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY." alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY." alt="Here's where I share my journey. I'm thankful to all who supported me and contributed to the person I've grown to be."></div>
 <br>
  
-<h3> I am a dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
+<h3> As a dedicated learner, I’m passionate about programming and web development, always exploring new ways to create and grow through hands-on experience.
 </h3>
 
-<h3>I'm currently learning HTML, CSS, Java Language. I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.</h3>
+<h3> I'm currently exploring web technologies like HTML and CSS, honing my skills in Java, and getting hands-on with Node.js and SQL databases. I'm also deepening my Python proficiency and have a foundational understanding of C </h3>
 
 <br>
 <br>
