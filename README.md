@@ -24,17 +24,17 @@
  
 <br>
 
-  [![Commit Activity](https://img.shields.io/github/commit-activity/y/nishuR31/nishuR31?color=blueviolet&logo=github&logoColor=black)](https://github.com/user/nishuR31/graphs/commit-activity)
-  ![Repo Size](https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet&label=Repo%20Size&style=flat&logo=github&logoColor=black)
-  ![Issues Closed](https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet&label=Issues%20Closed&style=flat&logo=github&logoColor=black)
-  ![Issues](https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet&label=Issues&style=flat&logo=github&logoColor=black)
+  [![Commit Activity](https://img.shields.io/github/commit-activity/y/himanshu2788/himanshu2788?color=blueviolet&logo=github&logoColor=black)](https://github.com/user/himanshu2788/graphs/commit-activity)
+  ![Repo Size](https://img.shields.io/github/repo-size/himanshu2788/himanshu2788?color=blueviolet&label=Repo%20Size&style=flat&logo=github&logoColor=black)
+  ![Issues Closed](https://img.shields.io/github/issues-pr-closed/himanshu2788/himanshu2788?color=blueviolet&label=Issues%20Closed&style=flat&logo=github&logoColor=black)
+  ![Issues](https://img.shields.io/github/issues/himanshu2788/himanshu2788?color=blueviolet&label=Issues&style=flat&logo=github&logoColor=black)
   
 <br>
 
   ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors&logoColor=black&style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-blueviolet?style=flat&logo=opensourceinitiative&logoColor=black)
 ![Last snake run](https://github.com/nishuR31/nishuR31/actions/workflows/snake.yml/badge.svg?logo=github&logoColor=black)
-  [![Follow](https://img.shields.io/badge/Follow-Me-blueviolet?logo=github&logoColor=black&style=flat)](https://github.com/nishuR31.com)
+  [![Follow](https://img.shields.io/badge/Follow-Me-blueviolet?logo=github&logoColor=black&style=flat)](https://github.com/himanshu2788.com)
 </div>
 
 <br>
