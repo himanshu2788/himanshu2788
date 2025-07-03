@@ -91,7 +91,7 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 <br>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=1500&lines=I'm+always+enhancing+my+skill+set+and+exploring" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=1500&lines=Enhancing+my+skill+set+and+exploring+new+technologies" alt="Typing SVG">
 </div>
 
 <br>
