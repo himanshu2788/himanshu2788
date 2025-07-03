@@ -1,6 +1,6 @@
 # <h1 align="center">Hi, I'm Himanshu or Hima 👋</h1>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY+Here's+where+I+share+my+journey.+I'm+thankful+to+all+who+supported+me+and+contributed+to+the+person+I've+grown+to+be."
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=Here's+where+I+share+my+journey.+I'm+thankful+to+all+who+supported+me+and+contributed+to+the+person+I've+grown+to+be."
                      alt="Here's where I share my journey. I'm thankful to all who supported me and contributed to the person I've grown to be."></div>
 <br>
  
