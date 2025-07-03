@@ -56,7 +56,7 @@
 
 ### <h1>My Trophies:</h1>
   
-  [![trophies](https://github-profile-trophy.vercel.app/?username=nishuR31&theme=algolia&no-bg=true&no-frame=true&column=-1)](https://github.com/nishuR31/nishuR31)
+  [![trophies](https://github-profile-trophy.vercel.app/?username=himanshu2788&theme=algolia&no-bg=true&no-frame=true&column=-1)](https://github.com/himanshu2788/himanshu2788)
 
 <br>
 <br>
