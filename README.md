@@ -103,9 +103,7 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=black)
 
@@ -119,27 +117,6 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20-38B2AC?logo=tailwind-css&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![JavaScript XML](https://img.shields.io/badge/JavaScript%20XML-61DAFB?logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=black)
-
-#### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=black)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=black)
-![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=black)
-![Mongoose](https://img.shields.io/badge/Mongoose-ff5000?logo=mongoose&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black)
-![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=black)
-![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?logo=dotenv&llogoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
-<!--![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)-->
 
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=black)
@@ -148,9 +125,6 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=black)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=black)
-![gitignoredotio](https://img.shields.io/badge/gitignore-204ECF?logo=gitignoredotio&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=black)
 
 <!--![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
@@ -167,60 +141,32 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 #### **Other Technologies**
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=black)
-![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-FF665A?logo=rest&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=black)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=black)
-![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=black)
 ![Google Photos](https://img.shields.io/badge/Google%20Photos-4285F4?logo=googlephotos&logoColor=black)
 <!--![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)--->
 
-#### **Design & Productivity**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=black)
-![v0](https://img.shields.io/badge/v0-000000?logo=v0&logoColor=white)
-<!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
-
-#### **Testing & QA**
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-
-#### **Mobile Development**
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)-->
 
 #### **Entertainment**
 ![BGMI](https://img.shields.io/badge/BGMI-F4B942?logo=pubg&logoColor=black)
 ![Gameloft](https://img.shields.io/badge/Gameloft-000000?logo=gameloft&logoColor=black)
-![Samsung](https://img.shields.io/badge/Samsung-1428A0?logo=samsung&logoColor=black)
-![Samsung Pay](https://img.shields.io/badge/Samsung%20Pay-1428A0?logo=samsungpay&logoColor=black)
-
 
 <br>
 <br>
 
 ### <h1 align="center">My GitHub Stats </h1>
-### Fun time
-[![Jokes Card](https://readme-jokes.vercel.app/api?username=nishuR31&theme=algolia&hideBorder)](https://github.com/nishuR31)
-[![Qoutes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/nishuR31)
-<br>
 
 ### Repositories and Languages
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=nishuR31&show_owner=true&theme=midnight-purple&bg_color=00000000)](https://github.com/nishuR31)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&layout=compact&hide_progress=true&bg_color=00000000)](https://github.com/nishuR31)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshu2788&repo=himanshu2788&show_owner=true&theme=midnight-purple&bg_color=00000000)](https://github.com/himanshu2788)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu2788&theme=midnight-purple&layout=compact&hide_progress=true&bg_color=00000000)](https://github.com/himanshu2788)
 <br>
 <br>
 
 ### GitHub Stats and  Contributions
-[![Nishu's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishuR31&theme=midnight_purple&show_icons=true&include_all_commits=true&bg_color=00000000)](https://github.com/nishuR31)
+[![my GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu2788&theme=midnight_purple&show_icons=true&include_all_commits=true&bg_color=00000000)](https://github.com/himanshu2788)
 <br>
-[![Nishu's Contributions](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&bg_color=00000000&show_icons=true&repos_count=5&border_radius=12&include_orgs=true&disable_animations=false)](https://github.com/nishuR31)
 
 <br>
 <br>
@@ -228,15 +174,15 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 ## <h1>GitHub Streak and Activity Graph</h1>
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits)](https://github.com/nishuR31)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu2788&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits)](https://github.com/himanshu2788)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nishuR31&theme=midnight-purple&hide_border=false&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=himanshu2788&theme=midnight-purple&hide_border=false&background=00000000)](https://git.io/streak-stats)
 
 <br>
 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=true&line=6e40c9&point=ff00ff&bg_color=00000000)](https://github.com/nishuR31)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu2788&theme=github-compact&bg=true&line=6e40c9&point=ff00ff&bg_color=00000000)](https://github.com/himanshu2788)
 <br>
 <br>
 
@@ -250,7 +196,7 @@ You can email me at [himanshu2788github@gmail.com](mailto:himanshu2788github@gma
 
 ### License and Others
 
-This project is licensed, secured with security policies and code of conduct under: <br><br>
+Protected under an open-source license with security best practices and a contributor Code of Conduct in place: <br><br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=flat&logo=apache&logoColor=white)](LICENSE) <br><br>
 
 [![Security Policy](https://img.shields.io/badge/Security-Policy-blueviolet?style=flat&logo=github&logoColor=black)](./SECURITY.md)
@@ -265,5 +211,5 @@ Click [License](http://www.apache.org/licenses/LICENSE-2.0) to read more.
 
 ### Projects
 
-* I'm currently working on projects. [Click here to check my projects.](https://github.com/nishuR31?tab=projects)
-* Stay tuned for more updates! 🚀
+* Sharpening skills through builds. [Click here to check my projects.](https://github.com/himanshu2788?tab=projects)
+* The journey's just getting started!💡
